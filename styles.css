@@ -214,7 +214,7 @@ body {
     background: var(--gradient-color-2);
 }
 
-@media (max-width:375px) {
+@media (max-width:650px) {
     body {
         margin: 0;
     }
