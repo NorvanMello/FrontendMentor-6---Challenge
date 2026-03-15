@@ -26,8 +26,6 @@ fetch('./data.json')
           <span>${Math.round(total / data.length)}</span>
           <span>of 100</span> 
          </p>`
-
-        console.log(data.length)
     })
 
 
